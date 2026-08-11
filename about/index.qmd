@@ -1,0 +1,23 @@
+---
+title: "About Me"
+image: "IMG_9504.JPG"
+about:
+  template: trestles
+  image-width: 18em
+  image-shape: rectangle
+toc: false
+---
+
+I am a freelance researcher with expertise in survey development, data processing, and data visualization. I received a PhD in Psychology from the University of Texas at Austin in 2025.
+
+During my PhD, my primary research was on people's opinions on the origin of SARS-CoV-2. My recent [publication](https://online.ucpress.edu/collabra/article/12/1/155621/217108) demonstrated that groups of individuals have varying beliefs where the virus originated across 11 countries.
+
+My interest has shifted towards psychological measurement and how to improve methodological approaches to better understand human attitudes and behavior.
+
+## Other Interests
+
+Since Feburary 2024, I have been learning Mandarin-Chinese and can read simplified and traditional characters. I also have a Chinese name: 游昊茗
+
+## Contact Me
+
+You can reach out to me at: [jesse.peregrino.d\@gmail.com](jesse.peregrino.d@gmail.com)

@@ -1,0 +1,13 @@
+---
+title: "Portfolio"
+listing:
+  type: grid
+  fields: [image, date, title]
+  categories: TRUE
+  sort-ui: [title, date]
+  filter-ui: TRUE
+  grid-item-border: FALSE
+page-layout: full
+---
+
+Here you will find a selection of my visualization work. Click on the images to learn more about each of the projects.

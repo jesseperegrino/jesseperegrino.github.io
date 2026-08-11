@@ -1,0 +1,7 @@
+---
+title: "Welcome!"
+---
+
+I'm Jesse Peregrino.
+
+I am a freelance researcher with expertise in survey development, data processing, and data visualization. You can learn more about me [here](/about/index.qmd).

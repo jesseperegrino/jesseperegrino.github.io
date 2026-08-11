@@ -1,0 +1,22 @@
+---
+title: "Brewing the lines: Charting Taiwan's Tea Production"
+image: "project_edit.png"
+date: 01/20/2026
+date-format: "MMMM YYYY"
+categories:
+  - "Taiwan"
+  - "Visualization"
+  - "Maps"
+  - "Volume Production"
+  - "Geospatial Data"
+  - "Tea"
+about:
+ template: broadside
+ image: "project_edit.png"
+---
+
+I created a choropleth map of tea volume production for each region in Taiwan in 2023.
+
+[**Technologies**]{.underline}: R/RStudio, Inkscape, *twmap* package, and *sf* package
+
+\[[Publication Source](https://jessstea.substack.com/p/brewing-the-lines-charting-taiwans)\]

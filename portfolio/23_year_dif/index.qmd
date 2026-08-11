@@ -1,0 +1,26 @@
+---
+title: "A 23 year difference"
+image: "1.png"
+date: 3/28/2026
+date-format: "MMMM YYYY"
+categories:
+  - "Taiwan"
+  - "Volume Production"
+  - "Slope Chart"
+  - "Tea"
+about:
+ template: broadside
+ image: "1.png"
+---
+
+I compared the volume of tea production in Taiwan during 2000 and 2023. Three takeaways were:
+
+1.  Nantou County produces the most tea out of all other regions
+
+2.  The north parts of Taiwan used to produce a lot of tea
+
+3.  Most regions don't produce as much compared to 2000
+
+[**Technologies**]{.underline}: R/RStudio, Inkscape, Slope Chart
+
+\[[Publication Source](https://jessstea.substack.com/p/a-23-year-difference)\]

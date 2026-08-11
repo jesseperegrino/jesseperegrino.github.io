@@ -1,0 +1,22 @@
+---
+title: "Weight Your Tea Bags"
+image: "template.png"
+date: 8/1/2026
+date-format: "MMMM YYYY"
+categories:
+  - "Visualization"
+  - "Measurement"
+  - "Open Source Data"
+  - "Tea"
+about:
+ template: broadside
+ image: "template.png"
+---
+
+I weighed the amount of tea leaves used in 13 different tea bags. Most of the leaves weigh 2 or 1.5 grams with some exceptions.
+
+This is the first personal project to make data publicly available \[see [here](https://ziptbl.com/#d=eNpdkdFKwzAUhu_7FHmAMFjddN626lQUBysI3oyz7qw5Nk1GklK6dxMfyVcwTU2FXQT-JH_-75wTBQ1yh7Bz_Ql5h1QJt-vIid0eqrhvSLV2OEgKAwc07Fnjz_eXZW-mAkUl26IqBbACga8NouLpbOlXmmTt4TBeeLOWWlXBNErvuOJpUnSkSFWWPRmygmUGoT6CdTyTUNbetPCmFzo5rdgrVIqOVKJyXrsB-kecz1Z-Lf_T7sB8Ikqvp6BA020ppsI3YC353AfTkmPvghyGAoPiqU-8STZtXQPbtieDDUbqCI3o24DOqEKpO5brc89yAY1uSCJ_RLMH6R0LPo99hIoCKda2GhpNCjjrqbiPiTDOIOaHs-FxdF6M4B6M7AdXH0w59n7aQWatFRNxPjxIIiyXvjvlSCFb-5n5T54wU_z1EP8LdPW5ow)\]. I also spent more time incorporating open source icons and customizing the annotations to refine the visualization aspects.
+
+[**Technologies**]{.underline}: R/RStudio, Inkscape
+
+\[[Publication Source](https://jessstea.substack.com/p/weigh-your-tea-bags)\]

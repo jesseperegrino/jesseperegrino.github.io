@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+  
+  preview:
+    browser: TRUE
+
+#metadata info
+website:
+  title: "Jesse Peregrino"
+  favicon: "/images/favicon_io/favicon-32x32.png"
+  open-graph: TRUE
+  page-footer: "© 2026, Jesse Peregrino"
+  
+  navbar:
+    pinned: TRUE
+    
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: "about/index.qmd"
+      - text: "Portfolio"
+        href: "portfolio/index.qmd"
+      - text: "Publications"
+        href: "publications/index.qmd"
+      
+    right:       
+      - text: "{{< fa envelope >}}"
+        href: "mailto:jesse.peregrino.d@gmail.com"
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/jesseperegrino.bsky.social
+      - text: "{{< fa brands google-scholar >}}"
+        href: https://scholar.google.com/citations?user=RIO_UAEAAAAJ&hl=en
+      - text: "{{< fa brands linkedin >}}"
+        href: https://www.linkedin.com/in/jesse-peregrino-phd-1a5157315
+  
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    mainfont: Dengxian 
+    toc: FALSE
+    fig-cap-location: margin
+    reference-location: margin
+
+editor: visual
+

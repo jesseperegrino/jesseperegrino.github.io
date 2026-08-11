@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "780edb48"
+  },
+  "about.qmd": {
+    "about.html": "8a4ff4b6"
+  },
+  "about/index.qmd": {
+    "index.html": "de6a4b36"
+  },
+  "publications/index.qmd": {
+    "index.html": "ab086012"
+  },
+  "portfolio/index.qmd": {
+    "index.html": "ad7f4fd6"
+  },
+  "portfolio/brewing_the_lines/index.qmd": {
+    "index.html": "49787ce2"
+  },
+  "portfolio/an_island/index.qmd": {
+    "index.html": "d08b75d1"
+  },
+  "portfolio/weigh_your_tea_bags/index.qmd": {
+    "index.html": "30ec6bec"
+  },
+  "portfolio/23_year_dif/index.qmd": {
+    "index.html": "9726c6e1"
+  }
+}

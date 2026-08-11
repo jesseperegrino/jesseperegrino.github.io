@@ -1,0 +1,23 @@
+---
+title: "An island of tea produces surprisingly very little tea"
+image: "Asset 1@4x.png"
+date: 11/30/2025
+date-format: "MMMM YYYY"
+categories:
+  - "Taiwan"
+  - "Visualization"
+  - "Volume Production"
+  - "Agriculture"
+  - "Tea"
+about:
+ template: jolla
+ image: "Asset 1@4x.png"
+ image-shape: rectangle
+ image-width: 50em
+---
+
+I wrote a post about the volume of agricultural production for 16 farm products in Taiwan from 1946 to 2024. The most defining graph was showcasing production change over time between 2015 to 2024.
+
+[**Technologies**]{.underline}: R/RStudio, Adobe Illustrator, Alluvial diagram
+
+\[[Publication Source](https://jessstea.substack.com/p/an-island-of-tea-produces-surprisingly)\]

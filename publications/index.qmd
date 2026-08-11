@@ -1,0 +1,20 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+See below for a list of publications. For more details, see my [Google Scholar](https://scholar.google.com/citations?user=RIO_UAEAAAAJ&hl=en).
+
+## Peer-Reviewed Articles
+
+Peregrino, J. D., Kertsez, A. F., Lunkenheimer, H. G., Erut, A., Etz., A., Burger, O., Fong, F., Babaeva, N., Eder, S. J., Falade, B., Hashmi, F., Peñaloza, G., Kavanagh, C., Rawlings, B., Silva, H. M., Suzuki, Y., Goldwater, M. B., & Legare, C. H. Latent Profile Analyses of Explanations about the Origins of SARS-CoV-2 Within and Across Countries. (2026). *Collabra: Psychology*, *12* (1)*:* 155621*.* doi: [[https://doi.org/10.1525/collabra.155621]{.underline}](https://doi.org/10.1525/collabra.155621) \[[PDF](https://watermark02.silverchair.com/collabra_2026_12_1_155621.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA2IwggNeBgkqhkiG9w0BBwagggNPMIIDSwIBADCCA0QGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMeV3gPcNc1rQdl7kmAgEQgIIDFbXvbveWo2aYaC7uNQffG9HHfzyLGsIs1GbxRr-2TbqgmFT05RR8jqV7ZIQNCWYThUCrFwBCOJMjWo2i9npWbpcLsQtQsw3VLNwle3ddyPhfYMPCnl_goem0U3ih9YvD_j0lVNT2WBPAgg5Wo1v2gO_f6vagO1_PxeVqZ0LTkClftHZkhNxos9vVopF_Tg2B4xWxCJrj_PNp8jtUOZqHkx_t_eKvqwGNXF0zrZyFXisyRzlA5PlKlGnV2eH2OzhuurblefdodPRZygQc37O2FnvrHcyMSu6OMXhWXzpId6TCfDZeQFHE7d3AfdsbQU0nDpBse5LCKKr3GaUApFuNgJaJd0YE3_LPqIvolSJfqp6UkFGo0HMOWwnl6W9cqL0BJ0Dk6-UF2t6-eQZQI6mCy8ryeSh5Y1hOYKmSV-uicWUwQQpAkh7C5IlisMwfcIsDJIqENrCiFGKGpByxhzVWv6jtR55DG9DijKI1B6Aqv65DEcSSLU79nROUnK_EQs0GpuBTM_PNnomJv3ZiRsJjIguWVntYxv3j1zDPE2NWas5sJmGox2fn_8O2qp1AgXgievRtFHIHk9tqf32aeq0c70IOXVfHAbYywDyeLgHV8YNA6u0cOnkglmTYLHUYTN0ruCBeyhnkNNaewUHE_biGIqOI_EfGgUlNMG141nGJMeS-oiWkZC7QjWSfYPyWeip3xQ-vZGtVE6kcVDKyvmKZfe_bsYdQgQi14N4MjQlKj1c_KaMCDC2uHKKR4ICaFZ27KUR926GWLOZiHB-hzPpNAhd8j7yngXzCbIOojE5DQx1xYQPatj_LP7qlFi1txyDOzqS6zoT-X_qm1qvu0LVk28dkhX-TuTTb6cr9gXVti22aq5tRW_JGiSbzLBzYTNzeFRwLRtLVKIZ0DIrqvTXFM5z-Yal8I8MlEwVVNb1rHPUZnDXZu1CpQDVtbOseQBeKYMEPmwQbHLN_xE76ndrm8eWR7eUX9zzdQbJ3yFwWTtdP7N9LJZVaeItyGJtMTCBndhy8bdYt3_as4fS_gpTbGkQadiLwFQ)\]
+
+Bozo, J., Revels-Macalinao, M., & Huynh, V. W. (2018). Examining skin color and discrimination among ethnic minority adolescents. *Race and Social Problems*, *10* (4), 320-331. [[https://doi.org/10.1007/s12552-018-9250-4]{.underline}](https://doi.org/10.1007/s12552-018-9250-4) \[[PDF](https://drive.google.com/file/d/1MxwPKRxELIg1hhK4YeKnixLwkbVP7boQ/view)\]
+
+## Book Chapters
+
+Peregrino, J.D. & Legare, C.H. (2022). Satisfying epistemic and existential needs: Representational pluralism across scientific domains. In Belanger, M., Potvin, P., Horst, S., Mortimer, E., & Shtulman, A. (Eds), *Representational pluralism: Perspectives from science education, psychology, philosophy, and the cognitive sciences*. Routledge \[[PDF](https://static1.squarespace.com/static/5f6be63b8e2a576b0adb4b6d/t/678003ef8dca27197b57549a/1736442863994/2022_Peregrino%26Legare_PluralismBookChapter.pdf)\]
+
+## Preprints
+
+Peregrino, J.D. & Legare, C. H. All of the evidence, none of the inference: Human agency facilitates transitive inference among children and adults. Preprint can be found at: [[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6105114]{.underline}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6105114)
