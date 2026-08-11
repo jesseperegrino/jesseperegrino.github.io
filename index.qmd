@@ -5,3 +5,5 @@ title: "Welcome!"
 I'm Jesse Peregrino.
 
 I am a freelance researcher with expertise in survey development, data processing, and data visualization. You can learn more about me [here](/about/index.qmd).
+
+I also enjoy creating data visualizations to share stories and insights. You can check out my [portfolio](/portfolio/index.qmd) for some recent works.
