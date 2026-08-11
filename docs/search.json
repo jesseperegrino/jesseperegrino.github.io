@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "See below for a list of publications. For more details, see my Google Scholar."
+  },
+  {
+    "objectID": "publications/index.html#peer-reviewed-articles",
+    "href": "publications/index.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-Reviewed Articles",
+    "text": "Peer-Reviewed Articles\nPeregrino, J. D., Kertsez, A. F., Lunkenheimer, H. G., Erut, A., Etz., A., Burger, O., Fong, F., Babaeva, N., Eder, S. J., Falade, B., Hashmi, F., Peñaloza, G., Kavanagh, C., Rawlings, B., Silva, H. M., Suzuki, Y., Goldwater, M. B., & Legare, C. H. Latent Profile Analyses of Explanations about the Origins of SARS-CoV-2 Within and Across Countries. (2026). Collabra: Psychology, 12 (1): 155621. doi: https://doi.org/10.1525/collabra.155621 [PDF]\nBozo, J., Revels-Macalinao, M., & Huynh, V. W. (2018). Examining skin color and discrimination among ethnic minority adolescents. Race and Social Problems, 10 (4), 320-331. https://doi.org/10.1007/s12552-018-9250-4 [PDF]"
+  },
+  {
+    "objectID": "publications/index.html#book-chapters",
+    "href": "publications/index.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\nPeregrino, J.D. & Legare, C.H. (2022). Satisfying epistemic and existential needs: Representational pluralism across scientific domains. In Belanger, M., Potvin, P., Horst, S., Mortimer, E., & Shtulman, A. (Eds), Representational pluralism: Perspectives from science education, psychology, philosophy, and the cognitive sciences. Routledge [PDF]"
+  },
+  {
+    "objectID": "publications/index.html#preprints",
+    "href": "publications/index.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\nPeregrino, J.D. & Legare, C. H. All of the evidence, none of the inference: Human agency facilitates transitive inference among children and adults. Preprint can be found at: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6105114"
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Here you will find a selection of my visualization work. Click on the images to learn more about each of the projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nA 23 year difference\n\n\n\nMar 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn island of tea produces surprisingly very little tea\n\n\n\nNov 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrewing the lines: Charting Taiwan’s Tea Production\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeight Your Tea Bags\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "portfolio/an_island/index.html",
+    "href": "portfolio/an_island/index.html",
+    "title": "An island of tea produces surprisingly very little tea",
+    "section": "",
+    "text": "I wrote a post about the volume of agricultural production for 16 farm products in Taiwan from 1946 to 2024. The most defining graph was showcasing production change over time between 2015 to 2024.\nTechnologies: R/RStudio, Adobe Illustrator, Alluvial diagram\n[Publication Source]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "I’m Jesse Peregrino.\nI am a freelance researcher with expertise in survey development, data processing, and data visualization. You can learn more about me here."
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a freelance researcher with expertise in survey development, data processing, and data visualization. I received a PhD in Psychology from the University of Texas at Austin in 2025.\nDuring my PhD, my primary research was on people’s opinions on the origin of SARS-CoV-2. My recent publication demonstrated that groups of individuals have varying beliefs where the virus originated across 11 countries.\nMy interest has shifted towards psychological measurement and how to improve methodological approaches to better understand human attitudes and behavior."
+  },
+  {
+    "objectID": "about/index.html#other-interests",
+    "href": "about/index.html#other-interests",
+    "title": "About Me",
+    "section": "Other Interests",
+    "text": "Other Interests\nSince Feburary 2024, I have been learning Mandarin-Chinese and can read simplified and traditional characters. I also have a Chinese name: 游昊茗"
+  },
+  {
+    "objectID": "about/index.html#contact-me",
+    "href": "about/index.html#contact-me",
+    "title": "About Me",
+    "section": "Contact Me",
+    "text": "Contact Me\nYou can reach out to me at: jesse.peregrino.d@gmail.com"
+  },
+  {
+    "objectID": "portfolio/23_year_dif/index.html",
+    "href": "portfolio/23_year_dif/index.html",
+    "title": "A 23 year difference",
+    "section": "",
+    "text": "I compared the volume of tea production in Taiwan during 2000 and 2023. Three takeaways were:\n\nNantou County produces the most tea out of all other regions\nThe north parts of Taiwan used to produce a lot of tea\nMost regions don’t produce as much compared to 2000\n\nTechnologies: R/RStudio, Inkscape, Slope Chart\n[Publication Source]"
+  },
+  {
+    "objectID": "portfolio/brewing_the_lines/index.html",
+    "href": "portfolio/brewing_the_lines/index.html",
+    "title": "Brewing the lines: Charting Taiwan’s Tea Production",
+    "section": "",
+    "text": "I created a choropleth map of tea volume production for each region in Taiwan in 2023.\nTechnologies: R/RStudio, Inkscape, twmap package, and sf package\n[Publication Source]"
+  },
+  {
+    "objectID": "portfolio/weigh_your_tea_bags/index.html",
+    "href": "portfolio/weigh_your_tea_bags/index.html",
+    "title": "Weight Your Tea Bags",
+    "section": "",
+    "text": "I weighed the amount of tea leaves used in 13 different tea bags. Most of the leaves weigh 2 or 1.5 grams with some exceptions.\nThis is the first personal project to make data publicly available [see here]. I also spent more time incorporating open source icons and customizing the annotations to refine the visualization aspects.\nTechnologies: R/RStudio, Inkscape\n[Publication Source]"
+  }
+]
