@@ -32,7 +32,7 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Here you will find a selection of my visualization work. Click on the images to learn more about each of the projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nA 23 year difference\n\n\n\nMar 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn island of tea produces surprisingly very little tea\n\n\n\nNov 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrewing the lines: Charting Taiwan’s Tea Production\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeight Your Tea Bags\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here you will find a selection of my visualization work. Click on the images to learn more about each of the projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nA 23 year difference\n\n\n\nMar 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn island of tea produces surprisingly very little tea\n\n\n\nNov 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrewing the lines: Charting Taiwan’s Tea Production\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the most popular Chinese surnames\n\n\n\nAug 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeigh Your Tea Bags\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/an_island/index.html",
@@ -86,8 +86,15 @@
   {
     "objectID": "portfolio/weigh_your_tea_bags/index.html",
     "href": "portfolio/weigh_your_tea_bags/index.html",
-    "title": "Weight Your Tea Bags",
+    "title": "Weigh Your Tea Bags",
     "section": "",
     "text": "I weighed the amount of tea leaves used in 13 different tea bags. Most of the leaves weigh 2 or 1.5 grams with some exceptions.\nThis is the first personal project to make data publicly available [see here]. I also spent more time incorporating open source icons and customizing the annotations to refine the visualization aspects.\nTechnologies: R/RStudio, Inkscape\n[Publication Source]"
+  },
+  {
+    "objectID": "portfolio/chinese_surname/index.html",
+    "href": "portfolio/chinese_surname/index.html",
+    "title": "Examining the most popular Chinese surnames",
+    "section": "",
+    "text": "I used an open source dataset, the Chinese Name Database 1930-2008, to examine the most popular Chinese surnames.\nI also created a custom search box where you can input your Chinese surname to learn:\n\nWhere your surname ranks out of 1,806 characters\nHow many people share your Chinese surname\n\nYou can find the search box hosted here.\nTechnologies: R/RStudio, Inkscape, Javascript, Treemap Graph, Lollipop Graph, ChineseNames R package\n[Publication Source]"
   }
 ]

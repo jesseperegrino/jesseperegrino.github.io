@@ -1,0 +1,29 @@
+---
+title: "Examining the most popular Chinese surnames"
+image: "Treemap_edits.png"
+date: 8/28/2026
+date-format: "MMMM YYYY"
+categories:
+  - "Visualization"
+  - "Chinese Surnames"
+  - "Open Source Data"
+  - "Search Box"
+  - "ChineseNames"
+about:
+ template: broadside
+ image: "Treemap_edits.png"
+---
+
+I used an open source dataset, the Chinese Name Database 1930-2008, to examine the most popular Chinese surnames.
+
+I also created a custom search box where you can input your Chinese surname to learn:
+
+1.  Where your surname ranks out of 1,806 characters
+
+2.  How many people share your Chinese surname
+
+You can find the search box hosted [here](https://jesseperegrino.github.io/chinese-name-search-box/).
+
+[**Technologies**]{.underline}: R/RStudio, Inkscape, Javascript, Treemap Graph, Lollipop Graph, ChineseNames R package
+
+\[[Publication Source](https://jessstea.substack.com/p/converging-towards-or-diverging-from?r=48jjc0&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)\]
