@@ -1,0 +1,24 @@
+---
+title: "A year of natural disasters on Taiwan’s tea production"
+image: "004.png"
+date: 10/23/2026
+date-format: "MMMM YYYY"
+categories:
+  - "Taiwan"
+  - "Visualization"
+  - "Maps"
+  - "Geospatial Data"
+  - "Tea"
+  - "Climate Change"
+about:
+ template: broadside
+ image: "004.png"
+---
+
+I created a choropleth map of how extreme weather disasters impacted tea production loss in quantity and estimated value for each region of Taiwan in 2025. The data are sourced from Taiwan's Ministry of Agriculture.
+
+This is also the first project to have Chinese-Mandarin translations in traditional characters for each produced graph.
+
+[**Technologies**]{.underline}: R/RStudio, Inkscape, *twmap* package, and *sf* package
+
+\[[Publication Source](https://jessstea.substack.com/p/a-year-of-natural-disasters-on-taiwans)\]
