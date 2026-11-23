@@ -1,6 +1,6 @@
 ---
 title: "Roasted or floral? Results from a blind tea taste testing"
-image: "004.png"
+image: "wordcloud_plot.png"
 date: 11/18/2026
 date-format: "MMMM YYYY"
 categories:
@@ -11,7 +11,7 @@ categories:
   - "Taste Tasting"
 about:
  template: broadside
- image: "004.png"
+ image: "wordcloud_plot.png"
 ---
 
 I collaborated with a tea company, One River Tea, to produce graphs on ratings and feedback for a blind tea taste testing activity during 2025. I did not design or collect the feedback form, only analyzed and visualized the results.
