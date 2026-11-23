@@ -1,0 +1,21 @@
+---
+title: "Roasted or floral? Results from a blind tea taste testing"
+image: "004.png"
+date: 11/18/2026
+date-format: "MMMM YYYY"
+categories:
+  - "Ratings"
+  - "Waffle Chart"
+  - "Word Clouds"
+  - "Tea"
+  - "Taste Tasting"
+about:
+ template: broadside
+ image: "004.png"
+---
+
+I collaborated with a tea company, One River Tea, to produce graphs on ratings and feedback for a blind tea taste testing activity during 2025. I did not design or collect the feedback form, only analyzed and visualized the results.
+
+[**Technologies**]{.underline}: R/RStudio, Inkscape, Waffle Chart, and Word Cloud
+
+\[[Publication Source](https://jessstea.substack.com/p/roasted-or-floral-results-from-a)\]
