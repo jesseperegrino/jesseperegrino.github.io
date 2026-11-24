@@ -5,7 +5,6 @@ date: 01/20/2026
 date-format: "MMMM YYYY"
 categories:
   - "Taiwan"
-  - "Visualization"
   - "Maps"
   - "Volume Production"
   - "Geospatial Data"

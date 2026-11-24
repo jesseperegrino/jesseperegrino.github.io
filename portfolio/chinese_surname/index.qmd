@@ -4,7 +4,6 @@ image: "Treemap_edits.png"
 date: 8/28/2026
 date-format: "MMMM YYYY"
 categories:
-  - "Visualization"
   - "Chinese Surnames"
   - "Open Source Data"
   - "Search Box"

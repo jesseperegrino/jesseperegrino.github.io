@@ -2,12 +2,13 @@
   {
     "listing": "/portfolio/index.html",
     "items": [
-      "/portfolio/23_year_dif/index.html",
+      "/portfolio/blind_tasting/index.html",
       "/portfolio/2025_taiwan_disaster/index.html",
-      "/portfolio/an_island/index.html",
-      "/portfolio/brewing_the_lines/index.html",
       "/portfolio/chinese_surname/index.html",
-      "/portfolio/weigh_your_tea_bags/index.html"
+      "/portfolio/weigh_your_tea_bags/index.html",
+      "/portfolio/23_year_dif/index.html",
+      "/portfolio/brewing_the_lines/index.html",
+      "/portfolio/an_island/index.html"
     ]
   }
 ]

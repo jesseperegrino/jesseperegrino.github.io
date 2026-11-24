@@ -32,7 +32,7 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "Here you will find a selection of my visualization work. Click on the images to learn more about each of the projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nA 23 year difference\n\n\n\nMar 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA year of natural disasters on Taiwan’s tea production\n\n\n\nOct 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn island of tea produces surprisingly very little tea\n\n\n\nNov 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrewing the lines: Charting Taiwan’s Tea Production\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the most popular Chinese surnames\n\n\n\nAug 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeigh Your Tea Bags\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here you will find a selection of my visualization work. Click on the images to learn more about each of the projects.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRoasted or floral? Results from a blind tea taste testing\n\n\n\nNov 18, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA year of natural disasters on Taiwan’s tea production\n\n\n\nOct 23, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExamining the most popular Chinese surnames\n\n\n\nAug 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWeigh Your Tea Bags\n\n\n\nAug 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA 23 year difference\n\n\n\nMar 28, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrewing the lines: Charting Taiwan’s Tea Production\n\n\n\nJan 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAn island of tea produces surprisingly very little tea\n\n\n\nNov 30, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "portfolio/brewing_the_lines/index.html",
@@ -103,5 +103,12 @@
     "title": "Weigh Your Tea Bags",
     "section": "",
     "text": "I weighed the amount of tea leaves used in 13 different tea bags. Most of the leaves weigh 2 or 1.5 grams with some exceptions.\nThis is the first personal project to make data publicly available [see here]. I also spent more time incorporating open source icons and customizing the annotations to refine the visualization aspects.\nTechnologies: R/RStudio, Inkscape\n[Publication Source]"
+  },
+  {
+    "objectID": "portfolio/blind_tasting/index.html",
+    "href": "portfolio/blind_tasting/index.html",
+    "title": "Roasted or floral? Results from a blind tea taste testing",
+    "section": "",
+    "text": "I collaborated with a tea company, One River Tea, to produce graphs on ratings and feedback for a blind tea taste testing activity during 2025. I did not design or collect the feedback form, only analyzed and visualized the results.\nTechnologies: R/RStudio, Inkscape, Waffle Chart, and Word Cloud\n[Publication Source]"
   }
 ]

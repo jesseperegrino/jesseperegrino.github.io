@@ -4,6 +4,7 @@ listing:
   type: grid
   fields: [image, date, title]
   categories: TRUE
+  sort: date desc
   sort-ui: [title, date]
   filter-ui: TRUE
   grid-item-border: FALSE

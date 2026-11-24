@@ -4,7 +4,6 @@ image: "template.png"
 date: 8/1/2026
 date-format: "MMMM YYYY"
 categories:
-  - "Visualization"
   - "Measurement"
   - "Open Source Data"
   - "Tea"
